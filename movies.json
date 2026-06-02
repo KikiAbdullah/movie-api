@@ -1,27 +1,40 @@
 [
   {
     "id": 1,
-    "title": "Spider-Noir",
-    "type": "movies",
-    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBjIvbRPkYN6uHp5G99zjH9o-MtTfGGgILL58YJKNtvhXj8J5",
-    "synopsis": "Kisah detektif swasta paruh baya di New York tahun 1930-an yang berjuang dengan masa lalunya sebagai satu-satunya pahlawan super di kota itu.",
-    "streams": [
-      {
-        "server_name": "Server Utama (Cloud)",
-        "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4Be2pySn9jEjw1BQ4OLxMmBjJvcR57KA"
-      }
-    ]
-  },
-  {
-    "id": 2,
     "title": "Cars (2006)",
     "type": "movies",
     "poster_url": "https://www.originalfilmart.com/cdn/shop/products/cars_2006_advance_original_film_art_52a514b9-58fc-4c90-bb28-cb40a1f9988c_5000x.jpg?v=1575319746",
-    "synopsis": "Lightning McQueen, mobil balap pemula yang sombong dan ambisius. Dalam perjalanan menuju balapan penentuan Piala Piston, ia tersesat di kota kecil Radiator Springs. Dihukum memperbaiki jalan karena merusak kota, ia belajar arti persahabatan, sportivitas, dan bahwa kemenangan bukanlah segalanya.",
+    "synopsis": "Seorang pembalap mobil ambisius bernama Lightning McQueen terdampar di kota kecil Radiator Springs, di mana ia belajar bahwa hidup adalah tentang perjalanan, bukan sekadar garis finis.",
     "streams": [
       {
         "server_name": "Server Utama (Cloud)",
         "embed_url": "https://uvideoweb.s3.ap-southeast-1.wasabisys.com/movie/Cars.2006.HS.720p.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20260602%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260602T061621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=a2fd0df11b95314ad78f6f330953a96a818032210fe44b2a8234b58e2a5a7375"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "title": "Cars 2 (2011)",
+    "type": "movies",
+    "poster_url": "",
+    "synopsis": "Lightning McQueen dan sahabatnya Mater melakukan perjalanan ke luar negeri untuk berkompetisi di World Grand Prix, namun mereka terjebak dalam intrik mata-mata internasional.",
+    "streams": [
+      {
+        "server_name": "Server Utama (Cloud)",
+        "embed_url": "https://uvideoweb.s3.ap-southeast-1.wasabisys.com/movie/Cars.2.2011.HS.720p.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20260602%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260602T003819Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=627b3ada6c405ef54884b2cc3674ee918ee0d91203682959cdacc2f4de5310a5"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Cars 3 (2017)",
+    "type": "movies",
+    "poster_url": "",
+    "synopsis": "Lightning McQueen berusaha membuktikan bahwa ia masih menjadi pembalap terbaik di dunia setelah generasi baru pembalap mobil balap berteknologi tinggi mendominasi sirkuit.",
+    "streams": [
+      {
+        "server_name": "Server Utama (Cloud)",
+        "embed_url": "https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2022/06/Cars2017Dubbing_03_TbWDID47XPJg143fTEJYqeJ_video_360p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20260602%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260602T005800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=bdebd40f021b565c402b638118b9277da58ee775fa33847dc91c9ffae8ea5819"
       }
     ]
   }
