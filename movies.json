@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "title": "Spider-Noir",
+    "type": "movies",
+    "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBjIvbRPkYN6uHp5G99zjH9o-MtTfGGgILL58YJKNtvhXj8J5",
+    "synopsis": "Kisah detektif swasta paruh baya di New York tahun 1930-an yang berjuang dengan masa lalunya sebagai satu-satunya pahlawan super di kota itu.",
+    "streams": [
+        {
+            "server_name": "Server Utama (Cloud)",
+            "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4Be2pySn9jEjw1BQ4OLxMmBjJvcR57KA"
+        }
+    ]
+}
