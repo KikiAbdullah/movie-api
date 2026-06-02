@@ -14,6 +14,76 @@
                     "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4Be2pySn9jEjw1BQ4OLxMmBjJvcR57KA"
                 }
             ]
-        }
+        },
+         {
+            "episode_number": 2,
+            "episode_title": "Episode 2",
+            "streams": [
+                {
+                    "server_name": "Server Utama (Cloud)",
+                    "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4Ce2pySn9jEjw1BQ4OLxNwA2Q5Ix4qLA"
+                }
+            ]
+        },
+         {
+            "episode_number": 3,
+            "episode_title": "Episode 3",
+            "streams": [
+                {
+                    "server_name": "Server Utama (Cloud)",
+                    "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4De2pySn9jEjw1BQ4OLxMlCGNqIRp4eA"
+                }
+            ]
+        },
+          {
+            "episode_number": 4,
+            "episode_title": "Episode 4",
+            "streams": [
+                {
+                    "server_name": "Server Utama (Cloud)",
+                    "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4Ee2pySn9jEjw1BQ4OLxN6BWc8ekEqKg"
+                }
+            ]
+        },
+          {
+            "episode_number": 5,
+            "episode_title": "Episode 5",
+            "streams": [
+                {
+                    "server_name": "Server Utama (Cloud)",
+                    "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4Fe2pySn9jEjw1BQ4OLxN2AGJhdRktLQ"
+                }
+            ]
+        },
+          {
+            "episode_number": 6,
+            "episode_title": "Episode 6",
+            "streams": [
+                {
+                    "server_name": "Server Utama (Cloud)",
+                    "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4Ge2pySn9jEjw1BQ4OLxNzUjM9dRx_fg"
+                }
+            ]
+        },
+          {
+            "episode_number": 7,
+            "episode_title": "Episode 7",
+            "streams": [
+                {
+                    "server_name": "Server Utama (Cloud)",
+                    "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4He2pySn9jEjw1BQ4OLxMnAjI-exsrfA"
+                }
+            ]
+        },
+          {
+            "episode_number": 8,
+            "episode_title": "Episode 8",
+            "streams": [
+                {
+                    "server_name": "Server Utama (Cloud)",
+                    "embed_url": "https://cloud.hownetwork.xyz/video.php?id=MQggKiALWi8tOAVhMFU3Ky0WZH9oHAcoMT4TKW4Ie2pySn9jEjw1BQ4OLxMiUjJuJh1xdw"
+                }
+            ]
+        },
     ]
 }
